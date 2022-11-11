@@ -7,3 +7,5 @@ This is a second example
 Files on github could change, and so do your local files  
 
 This is a new line here!
+
+This is the eight change!
